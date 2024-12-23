@@ -1,4 +1,4 @@
-<h1> Cat Facts </h1>
+<h1> Mini Api </h1>
 
 <p> 
 A small project that makes use of API's
