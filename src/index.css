@@ -23,6 +23,7 @@ body {
   height: 100vh;
 
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
+  flex: 50%;
+  text-align: center;
 }
